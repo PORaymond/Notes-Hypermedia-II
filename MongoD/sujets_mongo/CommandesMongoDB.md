@@ -112,5 +112,5 @@ Exemple:
 db.professeurs.deleteOne({"hobbies":"dormir"});
 ```
 
-[Retour à l’index du cours](../../Index.md)
+[Retour à l’index du cours](../../README.md)
 
