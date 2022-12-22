@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MarkdownSettings">
+    <option name="customStylesheetText" value="strong {&#10;    color :white;&#10;}" />
+    <option name="showProblemsInCodeBlocks" value="false" />
+    <option name="useCustomStylesheetText" value="true" />
+  </component>
+</project>
